@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Oleksandr Shkola](https://up.htmlacademy.ru/htmlcss/40/user/2502743).
-* Наставник: `Неизвестно`.
+* Наставник: [Дина Шарипова](https://htmlacademy.ru/profile/id1418957).
 
 ---
 
