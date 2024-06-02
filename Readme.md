@@ -2,6 +2,7 @@
 
 * Студент: [Oleksandr Shkola](https://up.htmlacademy.ru/htmlcss/40/user/2502743).
 * Наставник: [Дина Шарипова](https://htmlacademy.ru/profile/id1418957).
+Site: [https://dizhman.github.io/2502743-sedona-40/] (wellcome).
 
 ---
 
